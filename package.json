@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node bot.js"
+    "start": "node ./bot.js"
   },
   "engines": {
     "node": "16.x"
